@@ -1,6 +1,6 @@
 # My Fresh Coding Journey 🚀
 
-**Start Date:** $(date +%Y-%m-%d)
+**Start Date:** $(date 22/10/2225)
 **Goal:** Become a confident web developer
 
 ## What I'm Learning:
