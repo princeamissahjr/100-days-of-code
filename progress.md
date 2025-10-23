@@ -19,6 +19,7 @@
 - Flexible sizing with flex property
 - Hover effects
 - Mobile-responsive flex layouts
+- Day-01 forgot to add the viewport
 
 **Code Features:**
 - Skills cards that wrap responsively
