@@ -1,4 +1,4 @@
 #My streak
-1
+2
 Counting
-1/100
+2/100
