@@ -1,4 +1,6 @@
 #My streak
-2
+3
 Counting
-2/100
+3/100
+#Best streak
+3
