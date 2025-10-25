@@ -57,3 +57,27 @@ Complete mobile responsiveness
 
 **Thoughts:** 
 Realized Flexbox was the perfect choice for this component instead of overcomplicating with Grid. Progress over perfection!
+
+## Day 4: $(date 25/10/2025)
+**Project:** CSS Grid Exploration + Creative Navbar Solution
+
+**Breakthrough:**
+- Learned CSS Grid fundamentals
+- Applied Grid UNCONVENTIONALLY to solve specific mobile navbar issue
+- Discovered that "rules" can be broken for creative solutions
+
+**What I Built:**
+- CSS Grid navbar layout that works perfectly on iPhone XR
+
+**Key Insight:**
+"Sometimes the 'wrong' tool is the RIGHT solution for specific problems. 
+Real development is about solving problems, not following rules blindly."
+
+**Skills Gained:**
+- CSS Grid properties
+- Creative problem-solving
+- Mobile-first thinking
+- Tool flexibility
+
+**Thoughts:**
+Proud of thinking outside the box and finding a solution that works!
