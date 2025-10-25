@@ -57,13 +57,7 @@ h3 {
     
     body {
         padding: 10px;
-    }
-    .navbar {
-       
-    }
-    .navv {
-        flex: 1 0 100px;
-    }
+}
 }
 .navbar {
     background-color: #3a14c7;
