@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    font-family: Arial ;
+}
+header {
+    text-align: center;
+    background-color: rgba(18, 86, 155, 0.941);
+    color: white;
+    padding: 1rem;
+}
