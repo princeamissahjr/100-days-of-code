@@ -101,3 +101,39 @@ Proud of thinking outside the box and finding a solution that works!
 - HTML/CSS application
 - Creative thinking
 - Developer mindset
+
+## 📝 Day 6: $(date 27/10/2025)
+Project: Advanced Skills Grid with CSS Grid & Flexbox
+Technical Achievements:
+✅ Built responsive skills grid combining CSS Grid (layout) + Flexbox (card content)
+
+✅ Mastered transform/transition effects with advanced hover animations
+
+✅ Integrated media queries for mobile optimization
+
+✅ Debugged CSS cascade issues with * selector reset
+
+Breakthrough Debugging:
+Problem: Text layout issues on mobile
+Root Cause: * { margin: 0; padding: 0; } reset affecting component spacing
+Solution: Targeted CSS overrides for specific elements
+Lesson: Understanding CSS cascade and reset impacts
+
+Skills Demonstrated:
+Advanced CSS Grid layouts
+
+Complex hover animations (transform/transition)
+
+Mobile-first responsive design
+
+Professional debugging methodology
+
+Independent problem-solving
+
+Code Quality:
+Clean, maintainable CSS with proper organization
+
+Strategic technology choices (Grid for layout, Flexbox for components)
+
+Key Insight:
+"Became a debugger, not just a builder. Found root causes instead of treating symptoms."
