@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Prince Anthony Amissah Junior - Web Developer portfolio showcasing HTML and CSS">
+     <meta name="keywords" content="web developer, portfolio, HTML, CSS, JavaScript, frontend">
+    <link rel="stylesheet" href="styles.css">
+    <title>Prince Anthony Amissah Junior - Web Developer</title>
+</head>
+<body>
+  <header>
+    <div class="logo">
+        <ul class="page-container">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#skills">My Skills</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+        </div>
+  </header>
+  <section id="home" class="hero-section">
+    <div class="hero">
+        <img src="pepzigfx.jpg" alt="my picture" width="300" height="400">
+       <p><strong>Prince Anthony Amissah Junior</strong></p>
+       <br>
+       <p>Learning web development</p>
+         </div>
+  </section>
+    <section id="skills" class="skills">
+        <h2>My Skills</h2>
+        <div class="skills-grid">
+            <div class="skill-card">
+                <h3>HTML</h3>
+                <p>Building page structure</p>
+            </div>
+            <div class="skill-card">
+                <h3>CSS</h3>
+                <p>Styling and layout</p>
+            </div>
+            <div class="skill-card">
+                <h3>JavaScript</h3>
+                <p>Making sites interactive</p>
+            </div>
+            <div class="skill-card">
+                <h3>Git</h3>
+                <p>Version control</p>
+            </div>
+            <div class="skill-card">
+                <h3>Responsive Design</h3>
+                <p>Mobile-friendly sites</p>
+            </div>
+            <div class="skill-card">
+                <h3>Flexbox & Grid</h3>
+                <p>Modern CSS layouts</p>
+            </div>
+          </div>
+            </section>
+
+            <section class="contact" id="contact">
+                  <h2>Get In Touch</h2>
+                  <div class="social-links">
+                    <a href="https://github.com/princeamissahjr" class="social-link">
+                        <img src="logo-github.svg" alt="github" class="icon" width="20" height="20">Github
+                    </a>
+                    <a href="https://x.com/pepzigfx" class="social-link">
+                        <img src="logo-twitter.svg" alt="twitter" class="icon" width="20" height="20">Twitter
+                    </a>
+                    <a href="mailto:pepzig147@gmail.com" class="social-link">
+                        <img src="mail-outline.svg" alt="email" class="icon" width="20" height="20">E-mail
+                    </a>
+                  </div>
+            </section>
+            <p id="demo"></p>
+               <button type="button" onclick="myFunc()">
+                    Click and see a surprise!
+               </button>
+               <script type="text/JavaScript">
+                 function myFunc() {
+                    document.getElementById("demo").innerHTML =
+                    "Thanks for going through my portfolio and I'm open for suggestions too" 
+                 }
+               </script>
+          <footer class="footer-class">
+            <p>&copy; Prince Anthony Amissah Jnr || 2025</p>
+          </footer>
+     </body>
+    </html>
