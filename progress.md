@@ -240,3 +240,7 @@ Key Insight:
  Enhanced button hover effects
 
  Professional badge positioning
+
+ ## Day 21: BUILDING SOLAR ECLIPSE PROJECT:
+  I started with the heading today
+  Added a title too to it.
