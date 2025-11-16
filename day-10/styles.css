@@ -18,6 +18,9 @@ body {
     left: 0;
     top: 0;
 }
+.page-container li {
+    list-style: none;
+}
 a {
     text-decoration: none;
     color: black;
