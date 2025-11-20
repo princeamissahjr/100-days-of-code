@@ -263,3 +263,4 @@ Key Insight:
 - Created realistic eclipse corona effect with box-shadow"
 
 ## Day 26: ADDED FIRST JAVASCRIPT LEARNING PROJECT
+## Day 27: LEARNT VARIABLES AND DATA TYPES
