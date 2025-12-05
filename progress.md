@@ -271,3 +271,9 @@ Key Insight:
 - Strict equality operator (`===`)
 - Boolean values (`true`/`false`)
 - DOM manipulation with `getElementById()` and `innerHTML`
+## Day 30: UNDEFINED AND NULL:
+- Learned about declared but uninitialized variables (undefined)
+- Learned about explicitly empty variables (null)
+- Used let vs const declarations
+- Practiced document.write() method
+- Compared different output methods"
