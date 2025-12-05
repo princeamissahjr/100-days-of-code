@@ -265,3 +265,9 @@ Key Insight:
 ## Day 26: ADDED FIRST JAVASCRIPT LEARNING PROJECT
 ## Day 27: LEARNT VARIABLES AND DATA TYPES
 ## Day 28: Operators and Expressions practice completed"
+
+## Day 29: BOOLEAN BASICS:
+- Using `const` to declare variables
+- Strict equality operator (`===`)
+- Boolean values (`true`/`false`)
+- DOM manipulation with `getElementById()` and `innerHTML`
