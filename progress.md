@@ -277,3 +277,10 @@ Key Insight:
 - Used let vs const declarations
 - Practiced document.write() method
 - Compared different output methods"
+
+## Day 31: JAVASCRIPT STRINGS AND STRING CONCATENATION:
+- Learned different ways to create strings with single and double quotes
+- Discovered how to include quotes within strings using alternate quotes
+- Practiced string concatenation with the + operator
+- Used HTML line breaks (<br />) within string output
+- Created multiple string variables and displayed them together"
